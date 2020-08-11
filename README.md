@@ -4,7 +4,8 @@ This is a Command Line app that logs your energy level. It uses [storm](https://
 
 The available commands are:
     
-    - `log`: Logs your energy to a database at the present time. It takes as input an integer, I suggest to use 10 for the max value and 1 for the min value.
+    - `log`: Logs your energy to a database at the present time. 
+             It takes as input an integer, I suggest to use 10 for the max value and 1 for the min value.
        Example: `EnergyTracker log 10`
 
     - `history`: Show all your logs in the format: year-month-day time  Energy:
