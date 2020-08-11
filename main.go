@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 
 	"github.com/mitchellh/go-homedir"
-	"github.com/nahumsa/HourlyTracker/cmd"
-	"github.com/nahumsa/HourlyTracker/db"
+	"github.com/nahumsa/EnergyTracker/cmd"
+	"github.com/nahumsa/EnergyTracker/db"
 )
 
 func main() {

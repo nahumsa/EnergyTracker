@@ -3,7 +3,7 @@ package cmd
 import (
 	"fmt"
 
-	"github.com/nahumsa/HourlyTracker/db"
+	"github.com/nahumsa/EnergyTracker/db"
 
 	"github.com/spf13/cobra"
 )
